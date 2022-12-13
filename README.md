@@ -41,7 +41,8 @@ _________________
 <p align="center">
     <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Lampadas_acesas/blob/main/Lampadas/Readme/mostriario.png"/>  
 </p>
+
 <p align="center">
-    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Lampadas_acesas/blob/main/Lampadas/Readme/mostriario1.png"/>  
+    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Lampadas_acesas/blob/main/Lampadas/Readme/mostruario1.png"/>  
 </p>
 
